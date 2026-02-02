@@ -26,7 +26,7 @@ define( 'DB_NAME', 'siyiDB' );
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'Hzh19940921!' );
+define( 'DB_PASSWORD', 'Hzh940921!' );
 
 /** Database hostname */
 define( 'DB_HOST', '127.0.0.1' );
